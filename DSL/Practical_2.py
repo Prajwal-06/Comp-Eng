@@ -1,5 +1,5 @@
 '''
-Assignment No: 02 (A-01)
+Assignment No: 02
 Assignment Title:
  Write a Python program that computes the net amount of a bank account b
  transaction log from console input. The transaction log format is shown
