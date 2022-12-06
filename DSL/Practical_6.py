@@ -1,4 +1,4 @@
-'''-----------------------Assignment NO.6----------------------------------
+'''----------------------Assignment NO.6----------------------------------
 Write a python program to maintain club members, sort on roll numbers in ascending
 order. Write function “Ternary_Search” to search whether particular student is member
 of club or not. Ternary search is modified binary search that divides array into 3 halves
